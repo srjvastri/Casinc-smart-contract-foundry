@@ -140,15 +140,10 @@ This project showcases:
 
 ---
 
-## License
-This project is licensed under the MIT License.
-
----
-
 ## Contact
 For any inquiries, feel free to reach out:
-- **Email:** your-email@example.com
-- **GitHub:** [your-github-username](https://github.com/your-github-username)
+- **Email:** srjvastri8@gmail.com
+- **GitHub:** [srjvastri](https://github.com/srjvastri)
 
 ---
 
